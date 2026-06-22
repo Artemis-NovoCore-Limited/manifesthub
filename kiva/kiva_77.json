@@ -1,0 +1,16 @@
+{
+  "product_name": "Kiva",
+  "build_number": "20260622121109",
+  "build_type": "build_appstore",
+  "version": "1.0",
+  "branch": "kiva_1.0.0",
+  "time": "2026-06-22_12_11",
+  "download_path": "http://192.168.1.107:9000/AppStore_20260622_121109/Kiva.ipa",
+  "install_url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Artemis-NovoCore-Limited/manifesthub/main/kiva/kiva_77.plist",
+  "manifest_url": "https://raw.githubusercontent.com/Artemis-NovoCore-Limited/manifesthub/main/kiva/kiva_77.plist",
+  "jenkins_path": "http://localhost:8080/job/Kiva-iOS-Pro/77/",
+  "changelog": "Merge branch '1.0.0' into kiva_1.0.0  # Conflicts: #\tPodfile.lock  ",
+  "debug_build": false,
+  "environment": "0",
+  "app_key": "0"
+}
