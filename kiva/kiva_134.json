@@ -1,0 +1,16 @@
+{
+  "product_name": "Kiva",
+  "build_number": "20260727143247",
+  "build_type": "build_adhoc",
+  "version": "1.0",
+  "branch": "kiva_1.1.1",
+  "time": "2026-07-27_14_32",
+  "download_path": "http://192.168.1.114:9000/AdHoc_20260727_143247/Kiva.ipa",
+  "install_url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Artemis-NovoCore-Limited/manifesthub/main/kiva/kiva_134.plist",
+  "manifest_url": "https://raw.githubusercontent.com/Artemis-NovoCore-Limited/manifesthub/main/kiva/kiva_134.plist",
+  "jenkins_path": "http://localhost:8080/job/Kiva-iOS-Pro/134/",
+  "changelog": "Merge branch '1.1.1' into kiva_1.1.1  # Conflicts: #\tKiva.xcodeproj/project.pbxproj  ",
+  "debug_build": true,
+  "environment": "1",
+  "app_key": "1"
+}
